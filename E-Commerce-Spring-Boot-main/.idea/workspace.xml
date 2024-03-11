@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25ca9991-6383-4d10-9f89-3bcc7cc36097" name="Changes" comment="completed">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/E-Commerce-Spring-Boot-main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/TriplehaoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/config/dao/DataSourceConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/config/dao/SessionFactoryConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/config/service/TransactionManagementConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/dao/CustomerAccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/dao/CustomerDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/dao/ProductDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/dao/RegionDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/dao/RegionStoreDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/dao/SalesAccountDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/dao/StoreDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/entity/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/entity/CustomerAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/entity/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/entity/Region.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/entity/RegionStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/entity/SalesAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/entity/Stores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/handler/GlobalExceptionHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/CustomerAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/CustomerService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/ProductService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/RegionService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/RegionStoreService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/SalesAccountService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/StoreService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/impl/CustomerAccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/impl/CustomerServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/impl/ProductServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/impl/RegionServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/impl/RegionStoreServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/impl/SalesAccountServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/service/impl/StoreServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/web/CustomerAccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/web/CustomerController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/web/ProductController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/web/RegionController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/web/RegionStoreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/web/SalesAccountController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/java/com/dbms/triplehao/web/StoreController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/mapper/CustomerAccountDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/mapper/CustomerDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/mapper/ProductDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/mapper/RegionDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/mapper/RegionStoreDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/mapper/SalesAccountDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/mapper/StoresDao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/main/resources/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/test/java/com/dbms/triplehao/TriplehaoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/test/java/com/dbms/triplehao/dao/CustomerAccountDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/test/java/com/dbms/triplehao/dao/ProductDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/test/java/com/dbms/triplehao/dao/RegionDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/test/java/com/dbms/triplehao/dao/RegionStoreDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/test/java/com/dbms/triplehao/dao/SalesAccountDaoTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/E-Commerce-Spring-Boot-main/src/test/java/com/dbms/triplehao/dao/StoreDaoTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2dYl9mbONcvIK8njNRG5o07kT0L" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.TriplehaoApplication.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/ecommerce springboot/E-Commerce-Spring-Boot",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="TriplehaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="triplehao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dbms.triplehao.TriplehaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-azul-20.0.2-4caba194b151-eb49e076" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25ca9991-6383-4d10-9f89-3bcc7cc36097" name="Changes" comment="" />
+      <created>1710192744057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710192744057</updated>
+      <workItem from="1710192744861" duration="1432000" />
+      <workItem from="1710194466340" duration="104000" />
+    </task>
+    <task id="LOCAL-00001" summary="completed">
+      <option name="closed" value="true" />
+      <created>1710193173826</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710193173826</updated>
+    </task>
+    <task id="LOCAL-00002" summary="completed">
+      <option name="closed" value="true" />
+      <created>1710193481779</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710193481779</updated>
+    </task>
+    <task id="LOCAL-00003" summary="completed">
+      <option name="closed" value="true" />
+      <created>1710193499736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710193499736</updated>
+    </task>
+    <task id="LOCAL-00004" summary="completed">
+      <option name="closed" value="true" />
+      <created>1710193584222</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710193584222</updated>
+    </task>
+    <task id="LOCAL-00005" summary="completed">
+      <option name="closed" value="true" />
+      <created>1710194495241</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710194495241</updated>
+    </task>
+    <task id="LOCAL-00006" summary="completed">
+      <option name="closed" value="true" />
+      <created>1710194525968</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710194525968</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="completed" />
+  </component>
+</project>
